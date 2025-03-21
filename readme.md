@@ -1,3 +1,6 @@
+# Autorzy:
+Anielka Biczak, Kamil Kminkowski
+
 # Co trzeba zrobić
 
 - zamiana nazw miast na współrzędne geograficzne (jedna para współrzędnych pokazujących środek miasta)
